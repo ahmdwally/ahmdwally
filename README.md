@@ -1,8 +1,10 @@
 <h1 align="center">Hi👋,I'm Ahmed Wally</h1>
 
-<h3 align="left">Contacts:</h3>
+<h3 align="left">Get in touch:</h3>
 
-📧 ahmed.wally@aol.com  
+📧 ahmedwally@disroot.org  
+📧 ahmedwally@zohomail.com
+💬 [<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />](https://discordapp.com/users/ahmdwally)
 
 ---
 
