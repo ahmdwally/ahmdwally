@@ -4,13 +4,13 @@
 ---
 ```python
 class About:
-    def __init__(self, name, nick_name):
-        self.name = name
-        self.nick_name = nick_name
+  def __init__(self, name, nick_name):
+    self.name = name
+    self.nick_name = nick_name
 
 me = About(
-        "Ahmed Ibarhim Ibrahim (aii)",
-        "Ahmd Wally"
+  "Ahmed Ibarhim Ibrahim (aii)",
+  "Ahmd Wally"
         )
 
 ```
